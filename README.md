@@ -1,5 +1,7 @@
 # Kodluyoruz Ilk Repo
 
+![Img](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
 Bu repo [Patika](https://www.patika.dev/tr) Front-End Eğitiminde oluşturduğum ilk repo. İçersinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ## Installation
